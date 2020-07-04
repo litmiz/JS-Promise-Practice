@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-family: cursive;
+    background-image: url(dice-yellow-background_127657-13646.jpg);
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 50px;
+    text-decoration: underline;
+    text-shadow: 4px 3px gray;
+
+}
+
+
+button {
+    background-color: #ffffff;
+    border:2px solid black;
+    width: 100px;
+    height: 100px;
+    border-radius: 12px;
+    font-family: cursive;
+    font-size: 20px;
+}
