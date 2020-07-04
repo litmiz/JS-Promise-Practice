@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    font-family: 'Trebuchet MS', sans-serif;
+    background-image: url(index.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #c28cc2;
+}
+
+h1 {
+    font-size: 50px;
+    margin-top: 50px;
+    text-shadow: 2px 2px #000000;
+    text-decoration: underline;
+}
+
+h2 {
+    font-size: 40px;
+    text-shadow: 2px 2px #000000;
+}
+
+button {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+p {
+    font-size: 70px;
+    text-shadow: 3px 3px #000000;
+    color: #c28cc2;
+}
